@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to cfountain931's Page
 
 You can use the [editor on GitHub](https://github.com/cfountain931/cfountain931.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
